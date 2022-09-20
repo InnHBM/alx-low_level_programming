@@ -1,12 +1,11 @@
 #include <stdio.h>
-
 /**
- * reset_t0_98 - resets the value given integer to 98
- * @n: parameter
- * Return: nothing
+ * reset_t0_98 - resets argument to 98
+ * @n: pointer
+ * Return: void
  */
 
-void reset_to_98 (int *n)
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
