@@ -3,7 +3,8 @@
  * reset_t0_98 - resets argument to 98
  * @n: pointer
  *
- * Description: return the required result
+ * Description: using the reset_to_98 function
+ * return the required result
  *
  * Return: void
  *
