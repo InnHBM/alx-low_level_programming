@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * reset_t0_98 - resets argument to 98
+ *
  * @n: pointer
+ *
  * Return: void
  */
 
